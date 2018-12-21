@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 Describe any challenges encountered while building the app.
 
 1. One challenge I faced was making the initial commit to Github. However, I changed one of the version control settings to native which
-allowed me to make an initial commit. 
+allowed me to make an initial commit to the Git repo.
 
 
 ## License
