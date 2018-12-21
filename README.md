@@ -20,7 +20,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* List anything else that you can get done to improve the app functionality!
+
+I believe adding a backround color to each item depending on the priority would improve user experience. For example, red could be used to indicate higest priority while orange indicates medium priority and yello indicates relatively low priority.
 
 ## Video Walkthrough
 
