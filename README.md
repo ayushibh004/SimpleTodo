@@ -14,15 +14,9 @@ The following **required** functionality is completed:
 * [X] User can **successfully add and remove items** from the todo list
 * [X] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
-The following **optional** features are implemented:
-
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
-
-The following **additional** features are implemented:
-
 * List anything else that you can get done to improve the app functionality!
 
-I believe adding a backround color to each item depending on the priority would improve user experience. For example, red could be used to indicate higest priority while orange indicates medium priority and yello indicates relatively low priority.
+I believe adding a backround color to each item depending on the priority would improve user experience. For example, red could be used to indicate higest priority while orange indicates medium priority and yellow indicates relatively low priority.
 
 ## Video Walkthrough
 
